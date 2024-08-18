@@ -88,5 +88,5 @@ async def main():
         ]
         await asyncio.gather(*tasks)
 
-# Run the main function within an asyncio event loop
+# thats all
 asyncio.run(main())
